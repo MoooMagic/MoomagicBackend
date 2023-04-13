@@ -46,7 +46,7 @@ Please be assured that we are currently looking into your matter and will get ba
             if (err) {
                 console.log(err)
             } else {
-                console.log(`Email sent ${info.response}`)
+                console.log(`Email sent `)
             }
         });
 
